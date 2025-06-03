@@ -211,3 +211,24 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us If you have any questions about this Privacy Policy, You can contact us:
 
 By visiting this page on our website: https://appcollective82.wordpress.com/
+
+****
+Last updated: June 3, 2025
+
+eMailTap does not collect, store, or share any personal data.
+
+Contact Access
+To use eMailTap, you can add a contact with a photo and email address.
+This is stored only on your device and used to quickly start a new email to that person.
+
+No data is collected
+
+No third-party services are used
+
+No analytics or tracking
+
+Your information stays on your device, 100% private.
+
+
+
+
